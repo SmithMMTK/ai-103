@@ -1,16 +1,16 @@
-Language models are powerful tools for building generative AI applications, but a base model on its own might not meet all of your requirements. The quality, accuracy, and consistency of the responses a model generates depend on how you configure and augment it.
 
-Imagine you're a developer working for a travel agency. You're building a chat application to help customers with their travel-related questions. The base model gives decent responses, but your team has specific needs: the responses should follow the company's tone of voice, include accurate information about your hotel catalog, and maintain a consistent format across interactions. How do you get the model to perform at this level?
+Language models เป็นเครื่องมือที่ทรงพลังสำหรับการสร้าง generative AI applications แต่การใช้ base model เพียงอย่างเดียวอาจยังไม่ตอบโจทย์ทุกความต้องการของคุณ คุณภาพ ความแม่นยำ และความสม่ำเสมอของ responses ที่โมเดลสร้างขึ้น ขึ้นอยู่กับวิธีที่คุณ configure และ augment โมเดลนั้น
 
-There are several complementary strategies you can use to optimize a generative AI model's performance. These strategies range from quick, low-cost adjustments to more involved techniques that require additional time and resources.
+ลองจินตนาการว่าคุณเป็น developer ที่ทำงานให้กับ travel agency และกำลังสร้าง chat application เพื่อช่วยลูกค้าตอบคำถามเกี่ยวกับการเดินทาง แม้ base model จะให้ responses ได้ดีในระดับหนึ่ง แต่ทีมของคุณมีความต้องการเฉพาะ: responses ต้องสอดคล้องกับ tone of voice ของบริษัท มีข้อมูลที่ถูกต้องเกี่ยวกับ hotel catalog และคงรูปแบบให้สม่ำเสมอในทุก interaction แล้วคุณจะทำอย่างไรให้โมเดลทำงานได้ถึงระดับนี้?
 
-![Diagram showing the various strategies to optimize the model's performance, from prompt engineering to RAG and fine-tuning.](https://learn.microsoft.com/en-us/training/wwl-data-ai/optimize-generative-ai-model-performance/media/model-optimization.png)
+มีหลายกลยุทธ์ที่สามารถใช้ร่วมกันเพื่อ optimize ประสิทธิภาพของ generative AI model ได้ กลยุทธ์เหล่านี้มีตั้งแต่การปรับแบบรวดเร็วและต้นทุนต่ำ ไปจนถึงเทคนิคที่ซับซ้อนขึ้นซึ่งต้องใช้เวลาและทรัพยากรเพิ่มเติม
 
-Throughout this module, you explore each of these strategies and learn when and how to apply them individually or in combination.
+![Diagram showing the various strategies to optimize the model's performance, from prompt engineering to RAG and fine-tuning.|822](https://learn.microsoft.com/en-us/training/wwl-data-ai/optimize-generative-ai-model-performance/media/model-optimization.png)
 
- Note
+ตลอดทั้งโมดูลนี้ คุณจะได้สำรวจแต่ละกลยุทธ์ และเรียนรู้ว่าควรนำไปใช้อย่างไร เมื่อใดควรใช้เดี่ยวๆ และเมื่อใดควรใช้ร่วมกัน
 
-We recognize that different people like to learn in different ways. You can choose to complete this module in video-based format or you can read the content as text and images. The text contains greater detail than the videos, so in some cases you might want to refer to it as supplemental material to the video presentation.
+> [!NOTE]
+> เราเข้าใจว่าผู้เรียนแต่ละคนมีรูปแบบการเรียนรู้ที่แตกต่างกัน คุณสามารถเลือกเรียนโมดูลนี้ในรูปแบบวิดีโอ หรืออ่านเนื้อหาแบบข้อความและรูปภาพก็ได้ เนื้อหาแบบข้อความมีรายละเอียดมากกว่าวิดีโอ ดังนั้นในบางกรณีคุณอาจใช้เป็น supplemental material ควบคู่กับการรับชมวิดีโอ
 
 ---
 
