@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/03 Ground your model with Retrieval Augmented Generation.md",
+                "file": "Learn/Develop AI agents on Azure/01 Develop AI agents with Microsoft Foundry and Visual Studio Code/01 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Ground your model with Retrieval Augmented Generation"
+              "title": "01 Introduction"
             }
           }
         ]
@@ -199,11 +199,20 @@
   },
   "active": "40facc45821b53e4",
   "lastOpenFiles": [
-    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/02 Optimize model output with prompt engineering.md",
+    "Learn/Develop AI agents on Azure/01 Develop AI agents with Microsoft Foundry and Visual Studio Code/README.md",
+    "Learn/Develop AI agents on Azure/01 Develop AI agents with Microsoft Foundry and Visual Studio Code/01 Introduction.md",
+    "Learn/Develop AI agents on Azure/README.md",
+    "Learn/Develop AI agents on Azure/01 Develop AI agents with Microsoft Foundry and Visual Studio Code",
+    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/README.md",
+    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/06 Summary.md",
+    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/05 Compare and combine optimization strategies.md",
+    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/04 Fine-tune a model for consistent behavior.md",
+    "Learn/Develop generative AI apps in Azure/Untitled.md",
+    "Learn/Develop generative AI apps in Azure/README.md",
+    "Learn/Develop AI agents on Azure",
     "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/03 Ground your model with Retrieval Augmented Generation.md",
     "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/01 Introduction.md",
-    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/README.md",
-    "Learn/Develop generative AI apps in Azure/README.md",
+    "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry/02 Optimize model output with prompt engineering.md",
     "Learn/Develop generative AI apps in Azure/05 Optimize generative AI model performance with Microsoft Foundry",
     "Learn/Develop generative AI apps in Azure/04 Develop generative AI apps that use tools/07 Summary.md",
     "Learn/Develop generative AI apps in Azure/04 Develop generative AI apps that use tools/06 Use the function tool.md",
@@ -224,17 +233,8 @@
     "Learn/Develop generative AI apps in Azure/03 Develop a generative AI chat app with Microsoft Foundry/03 Choose an endpoint and SDK.md",
     "source/hello-foundry-project-endpoint.py",
     "source/hello-foundry-openai-endpoint.py",
-    "source/hello_foundry_project_endpoint.py",
-    "source/secondCode.py",
     "Learn/Develop generative AI apps in Azure/01 Plan and prepare to develop AI solutions on Azure/05 Developer tools and SDKs.md",
     "Learn/Develop generative AI apps in Azure/03 Develop a generative AI chat app with Microsoft Foundry/02 Explore with the model playground.md",
-    "Microsoft...soft Learn.md",
-    "Learn/Develop generative AI apps in Azure/03 Develop a generative AI chat app with Microsoft Foundry/01 Introduction.md",
-    "Learn/Develop generative AI apps in Azure/02 Select, deploy, and evaluate Microsoft Foundry models/05 Evaluate model performance.md",
-    "Learn/Develop generative AI apps in Azure/02 Select, deploy, and evaluate Microsoft Foundry models/03 Select models using benchmarks.md",
-    "Learn/Develop generative AI apps in Azure/02 Select, deploy, and evaluate Microsoft Foundry models/04 Deploy models to endpoints.md",
-    "Learn/Develop generative AI apps in Azure/02 Select, deploy, and evaluate Microsoft Foundry models/02 Explore the model catalog.md",
-    "Learn/Develop generative AI apps in Azure/02 Select, deploy, and evaluate Microsoft Foundry models/01 Introduction.md",
     "Excalidraw/attachments/Pasted Image 20260619140854_375.png",
     "Excalidraw/attachments/Pasted Image 20260619120850_077.png",
     "Excalidraw/attachments/Pasted Image 20260619120421_133.png",
