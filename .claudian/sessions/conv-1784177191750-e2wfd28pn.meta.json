@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784177191750-e2wfd28pn",
+  "providerId": "claude",
+  "title": "Debug file search agent RAG integration",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784177191750,
+  "updatedAt": 1784177258009,
+  "lastResponseAt": 1784177213131,
+  "sessionId": "5d425b52-7404-47ad-90fa-a833a1d3d8cb",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5d425b52-7404-47ad-90fa-a833a1d3d8cb"
+  },
+  "currentNote": "Learn/Develop generative AI apps in Azure/04 Develop generative AI apps that use tools/05 Use the file_search tool.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2467,
+    "cacheReadInputTokens": 14627,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 17102,
+    "percentage": 9
+  }
+}

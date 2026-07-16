@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784177396610-o03ai63ma",
+  "providerId": "claude",
+  "title": "Clarify get_time and function_call logic",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784177396610,
+  "updatedAt": 1784177651460,
+  "lastResponseAt": 1784177651460,
+  "sessionId": "830ba118-ed6d-445b-9fd7-4def446b30cf",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "830ba118-ed6d-445b-9fd7-4def446b30cf"
+  },
+  "currentNote": "Learn/Develop generative AI apps in Azure/04 Develop generative AI apps that use tools/06 Use the function tool.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1009,
+    "cacheReadInputTokens": 17880,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 18899,
+    "percentage": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784175511639-le29rt2jk",
+  "providerId": "claude",
+  "title": "Microsoft Foundry Models มีโมเดลที่สามารถใช้ tools...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784175511645,
+  "updatedAt": 1784177159756,
+  "lastResponseAt": 1784176425207,
+  "sessionId": "a41e8b67-f669-48c1-a3e6-e3f18b5b3ab2",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a41e8b67-f669-48c1-a3e6-e3f18b5b3ab2"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1202,
+    "cacheReadInputTokens": 19075,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 20287,
+    "percentage": 10
+  }
+}
