@@ -1,0 +1,7 @@
+คุณได้เรียนรู้วิธีพัฒนา AI agents ด้วย Microsoft Foundry Agent Service ผ่านทั้ง Foundry portal และ Visual Studio Code แนวทางการพัฒนาที่ยืดหยุ่นนี้ช่วยให้คุณสร้าง intelligent automation ที่รองรับงานซับซ้อน เข้าถึงข้อมูลแบบ real-time และเชื่อมต่อกับแอปพลิเคชันของคุณได้อย่างลื่นไหล
+
+ตลอดทั้งโมดูล คุณได้ทำความเข้าใจว่า AI agents คืออะไร และเหตุใดจึงมีคุณค่าสำหรับการทำ workflow automation และการยกระดับ decision-making คุณได้สำรวจความสามารถสำคัญของ Microsoft Foundry Agent Service รวมถึง agent 2 ประเภทหลัก ได้แก่ declarative agents (ตั้งค่าผ่าน visual designer และ YAML) และ hosted agents (สร้างและ deploy ผ่านโค้ด) คุณยังได้เรียนรู้การ build agents ผ่านทั้ง Foundry portal แบบ visual และ VS Code extension ที่เน้น workflow สำหรับนักพัฒนา พร้อมเข้าใจว่าแนวทางใดเหมาะกับสถานการณ์ใด
+
+คุณได้ตั้งค่า agents ด้วย instructions ที่ชัดเจนเพื่อกำหนดพฤติกรรมและบุคลิก ขยายความสามารถของ agent ผ่าน tool catalog ที่มี built-in tools เช่น Code Interpreter, File Search, Bing Web Search, Azure AI Search และอื่นๆ อีกมากมาย ซึ่งช่วยยกระดับจาก chat interface ธรรมดาเป็นระบบ automation ที่ซับซ้อน คุณได้ทดสอบ agents ผ่าน integrated playgrounds, deploy ไปยัง production environment และ generate integration code เพื่อเชื่อม agents เข้ากับแอปพลิเคชัน
+
+ด้วยทักษะเหล่านี้ คุณสามารถสร้าง AI agents ที่ช่วยทำงาน routine โดยอัตโนมัติ ให้ความช่วยเหลืออย่างชาญฉลาด และเชื่อมกับระบบเดิมขององค์กรได้ ไม่ว่าคุณจะสร้างระบบ customer service automation, developer productivity tools หรือ specialized research assistants, Microsoft Foundry Agent Service ก็ให้รากฐานสำหรับ AI solutions ที่เชื่อถือได้และขยายได้

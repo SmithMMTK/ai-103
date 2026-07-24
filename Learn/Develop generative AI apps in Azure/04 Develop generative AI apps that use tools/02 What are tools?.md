@@ -1,4 +1,4 @@
-Microsoft Foundry Models มีโมเดลที่สามารถใช้ tools เพื่อค้นหาข้อมูลหรือทำงานตามภารกิจได้ คุณสามารถใช้ความสามารถด้าน tool support ในโมเดลได้ โดยระบุว่าอยากให้โมเดลใช้ tools ใดบ้างใน prompt ที่ส่งผ่าน OpenAI _Responses_ API
+9Microsoft Foundry Models มีโมเดลที่สามารถใช้ tools เพื่อค้นหาข้อมูลหรือทำงานตามภารกิจได้ คุณสามารถใช้ความสามารถด้าน tool support ในโมเดลได้ โดยระบุว่าอยากให้โมเดลใช้ tools ใดบ้างใน prompt ที่ส่งผ่าน OpenAI _Responses_ API
 
 ![Diagram of an application configuring a model to use tools.|364](https://learn.microsoft.com/en-us/training/wwl-data-ai/use-generative-ai-tools/media/tools.png)
 
